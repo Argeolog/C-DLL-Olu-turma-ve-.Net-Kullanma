@@ -1,0 +1,13 @@
+E:\DLL_Test_Net\DLL_Test_Net\bin\Debug\DLL_Test_Net.exe.config
+E:\DLL_Test_Net\DLL_Test_Net\bin\Debug\DLL_Test_Net.exe
+E:\DLL_Test_Net\DLL_Test_Net\bin\Debug\DLL_Test_Net.pdb
+E:\DLL_Test_Net\DLL_Test_Net\bin\Debug\DLL_Test_Net.xml
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.vbproj.AssemblyReference.cache
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.vbproj.SuggestedBindingRedirects.cache
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.Form1.resources
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.Resources.resources
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.vbproj.GenerateResource.cache
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.vbproj.CoreCompileInputs.cache
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.exe
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.xml
+E:\DLL_Test_Net\DLL_Test_Net\obj\Debug\DLL_Test_Net.pdb

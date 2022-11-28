@@ -1,0 +1,5 @@
+#pragma once
+LIBRARY  Export
+EXPORTS
+Test @1
+Fonks @2
